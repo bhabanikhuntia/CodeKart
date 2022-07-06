@@ -11,8 +11,8 @@
 </head>
 
 <body>
-   <?php include("./src/Header.php"); ?>
-   <?php include("./src/Footer.php"); ?>
+   <?php include("./src/Header/Header.php"); ?>
+   <?php include("./src/Footer/Footer.php"); ?>
 </body>
 
 </html>
