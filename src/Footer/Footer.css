@@ -1,0 +1,109 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+#footer1 {
+    background-color: #FFA34C;
+    /* font-family: Poppins; */
+}
+#footer2 {
+    /* text-align: center; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#footer3 {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+.footer4 {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.footer5 {
+    font-weight: bold;
+    font-size: 1.1rem;
+    line-height: 1.2rem;
+    align-items: center;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+#footer6 {
+    background-color: #313625;
+    color: white;
+    font-family: Poppins;
+}
+.footer7 {
+    /* letter-spacing: 0.5rem;
+    transform: rotate(90deg); */
+    transform: rotate(-90deg);
+    position: absolute;
+    margin-top: 15%;
+    letter-spacing: 0.2rem;
+}
+#footer8 {
+    line-height: 100%; 
+    font-family: Poppins; 
+    text-align: center;
+}
+
+.footer9 {
+    font-weight: 900;
+    font-family: Poppins;
+    font-size: 2.5rem;
+    margin-top: 1.5rem;
+}
+.footer10 {
+    font-weight: 900;
+    font-family: Poppins;
+    font-size: 3.5rem;
+    padding-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    color: #FFD91B;
+}
+#footer11 {
+    background-color: black;
+    color: white;
+    font-family: Poppins;
+    text-align: center;
+}
+.footer12 {
+    font-weight: 600;
+    font-size: 1rem;
+}
+.footer13 {
+    list-style: none;
+  }
+
+  .footer14 {
+    font-weight: bold;
+    font-size: 0.8rem;
+  }
+.footer13 .footer14::before {
+    content: "\2022";
+    color: #FFAC45;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+
+  .footer15 {
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+
+  .footer16 {
+    height: 3.5rem;
+    width: 3.5rem;
+    border-radius: 0.5rem;
+  }
+  .footer17 {
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  .footer18 {
+    font-weight: bold;
+    font-size: 0.6rem;
+  }
