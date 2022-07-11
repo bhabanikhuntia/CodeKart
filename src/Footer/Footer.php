@@ -32,12 +32,12 @@
             </div>
             <div class="col">
                 <div class="row">
-                    <div class="col-10" id="footer8">
+                    <div class="col-9" id="footer8">
                         <p class="footer9">The values that hold us</p>
                         <p class="footer10">true to our customer's.</p>
                     </div>
-                    <div class="col-2">
-                        <img src='assets/logo.JPG' alt="logo" style="margin-top: 2rem;" />
+                    <div class="col-3">
+                        <img src='assets/logo.JPG' alt="logo" style="margin-top: 2rem; width:4rem" />
                     </div>
                 </div>
 
