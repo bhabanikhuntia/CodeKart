@@ -26,9 +26,17 @@
     <div class="container-fluid" id="footer6">
         <div class="row">
             <div class="col col-lg-2">
-                <div class="footer7">
+                        <div style="position: relative;">
+                            <div class="footer19">
+                                <div style="position: relative;">
+                                    <div class="footer20">LET'S CRAFT THE FUTURE</div>
+                                </div>
+                            </div>
+                        </div>
+                
+            <!-- <div class="footer7">
                     LET'S CRAFT THE FUTURE
-                </div>
+                </div> -->
             </div>
             <div class="col">
                 <div class="row">

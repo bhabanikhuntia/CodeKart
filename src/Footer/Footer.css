@@ -52,6 +52,7 @@
   font-family: Poppins;
   font-size: 2.5rem;
   margin-top: 1.5rem;
+  line-height: 2rem;
 }
 .footer10 {
   font-weight: 900;
@@ -60,6 +61,7 @@
   padding-top: 0.5rem;
   margin-bottom: 1.5rem;
   color: #ffd91b;
+  line-height: 2.5rem;
 }
 #footer11 {
   background-color: black;
@@ -106,4 +108,25 @@
 .footer18 {
   font-weight: bold;
   font-size: 0.6rem;
+}
+
+.footer19 {
+    position: absolute;
+    bottom: 100%;
+    -webkit-transform: rotateZ(90deg);
+    transform-origin: 0 100%;
+    /* background: #B4B4B6; */
+    white-space: nowrap;
+    width: 30rem;
+    height: 1.5rem;
+}
+.footer20 {
+    bottom: 100%;
+    white-space: nowrap;
+    width: 23rem;
+    margin: auto;
+    letter-spacing: 0.6em;
+    font-weight: 800;
+    position: relative;
+    transform: rotate(180deg);
 }
