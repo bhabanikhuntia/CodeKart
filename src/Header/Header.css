@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+*{
+
+   
+}
+body{
+    font-family: poppins;
+}
+.navbar-nav{
+   margin-left: auto;
+    gap: 1em;
+    font-weight: 400;
+}
+button.navbar-collapse{
+    outline: none;
+    border: none;
+ }   
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.nav-link {
+    transition: transform .2s;
+    color: black !important; 
+    font-weight: 5=400;
+}
+.nav-link:hover{
+
+   color: brown;
+}
+img{
+    height: 70px;
+    width: auto;
+}
+
+
+/* navbar--end */
+
+
+
+#first_section {
+    height: 100vh;
+    background-image: -moz-linear-gradient( -148deg, rgb(242,113,33) 0%, rgb(233,64,87) 49%, rgb(186,50,111) 75%, rgb(138,35,135) 100%);
+    background-image: -webkit-linear-gradient( -148deg, rgb(242,113,33) 0%, rgb(233,64,87) 49%, rgb(186,50,111) 75%, rgb(138,35,135) 100%);
+    background-image: -ms-linear-gradient( -148deg, rgb(242,113,33) 0%, rgb(233,64,87) 49%, rgb(186,50,111) 75%, rgb(138,35,135) 100%);
+    animation: 15s ease infinite;
+   
+}
+
+
+
+.col-md-6{
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  
+    align-items: left;   
+   line-height: 1.2;
+   padding-top: 1rem;
+    
+}
+.smallhead{
+    font-size: 2rem;
+    font-weight: 800;
+    padding-top: 50px;
+    font-size: 1.3rem;
+    margin-top: 40px;
+    
+    
+}
+.bighead{
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: rgb(255, 240, 206);
+
+}
+.paragraph{
+    font-weight: 300;
+    font-size: 14px;
+    text-align: justify;
+    margin-top: 2rem;
+    color: rgb(255, 240, 206);
+}
+
+.paragraph:hover{
+    font-weight: 300;
+    font-size: 14px;
+    text-align: justify;
+    margin-top: 2rem;
+    color: rgb(255, 255, 255);
+}
+.btn_sec1{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border-radius: 7px;
+    color: rgb(247, 0, 115);
+    margin-top: 40px;
+    border: none;
+    font-weight: 400;
+    font-weight: 3rem;
+    
+}
+.btn_sec1:hover{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 7px;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    border: 3px solid white;
+    font-weight: 400;
+    font-weight: 3rem;
+    cursor: pointer;
+    transition: 300ms ease-in-out ;
+    
+}
+.isomatric_image{
+    height: auto;
+    width: 900;
+    margin-top: 60px;
+    
+}
+#second_section{
+
+  height: 400px;
+  background-color: #ECFFF2;
+  gap: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+#card_mission{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0px 5px 3.92px 0.08px rgba(6, 0, 19, 0.51);
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 50px;
+    flex-direction: column;
+}
+.mission{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: poppins;
+    color: rgb(28, 28, 28);
+}
+.mission_para{
+    font-size: 12px;
+    color: rgb(67, 67, 67);
+    padding: 0px 30px 30px 30px;
+    text-align: justify;
+}
+
+#third_section{
+
+    height: 600px;
+    background-color: #ECFFF2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .codekartbox{
+    height: 300px;
+    width: 300px;
+    border: 40px solid rgb(23, 23, 23);
+    border-radius: 40px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .circlemain{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-left: 20px;
+
+  }
+
+  .circle{
+    height: 40px;
+    width: 40px;
+    background-color: #87C700;
+    border-radius: 40px;
+  }
+
+  .maintext_number{
+    font-size: 64px;
+    font-weight: 700;
+    color: #87C700;
+  }
+  .thirdsec_subtext{
+    font-size: 14px;
+    font-weight: 900;
+    color: BLACK;
+  }
+
+  #associate_partner{
+    height: 160px;
+    background-color: #313625;
+  }
+  .yellowdiv{
+   width: 100%;
+   margin: none;
+    height: 5%;
+    background: linear-gradient(to right, orange, yellow);
+    border: 1px solid yellow;
+    border-radius: 20px;
+  }
+  .titletext_associate{
+    font-size: 96px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+  }
+  .companylogo{
+    height: 200px;
+    margin: 120px;
+  }
+  .firstline{
+    display: flex;
+    padding: 10px;
+
+  }
+  .carousel-item {
+    display: flex;
+  }
