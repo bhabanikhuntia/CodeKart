@@ -11,6 +11,8 @@
     <link rel="StyleSheet" href="./src/Team/Team.css" type="text/css" />
     <link rel="StyleSheet" href="./src/Contactus/Contactus.css" type="text/css" />
     <link rel="StyleSheet" href="./src/Services/Services.css" type="text/css" />
+    <link rel="StyleSheet" href="./src/Services/Services.css" type="text/css" />
+    <link rel="StyleSheet" href="./src/Aboutus/Aboutus.css" type="text/css" />
     <title>codeKart</title>
 </head>
 
@@ -20,7 +22,8 @@
         <?php // include("./src/Team/Team.php"); ?>
         <?php // include("./src/Contactus/Contactus.php"); ?>
         <?php // include("./src/Services/Services.php"); ?>
-        <?php  include("./src/Footer/Footer.php"); ?>
+        <?php // include("./src/Footer/Footer.php"); ?>
+        <?php  include("./src/Aboutus/Aboutus.php"); ?>
     </div>
 </body>
 
