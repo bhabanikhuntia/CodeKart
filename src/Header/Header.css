@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+body{
+    font-family: poppins;
+}
+.navbar-nav{
+   margin-left: auto;
+    gap: 1em;
+    font-weight: 400;
+}
+button.navbar-collapse{
+    outline: none;
+    border: none;
+ }   
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.nav-link {
+    transition: transform .2s;
+    color: black !important; 
+    font-weight: 5=400;
+}
+.nav-link:hover{
+   color: brown;
+}
+#header1{
+    height: 70px;
+    width: auto;
+}
