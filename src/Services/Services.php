@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="StyleSheet" href="./Services.css" type="text/css" />
+    <link rel="icon" type="image/x-icon" href="../../assets/favicon.png">
+    <title>CodeKart</title>
 </head>
-
 <body>
+<?php include("../Header/Header.php"); ?>
     <div class="container-fluid" id="services1">
         <div class="row">
             <div class="col"></div>
@@ -39,7 +42,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group1.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group1.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Web Development</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -62,7 +65,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group2.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group2.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Mobile Development</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -85,7 +88,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group3.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group3.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Augmented Reality</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -110,7 +113,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group1.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group1.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Software Testing</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -133,7 +136,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group2.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group2.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Blockchain</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -156,7 +159,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group3.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group3.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Cyber Security</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -181,7 +184,7 @@
                         </div>
                     </div>
                     <div class="col-10">
-                        <div><img src="./assets/Group1.png" alt="img" style="height: 3rem;"></div>
+                        <div><img src="/CodeKart/assets/Group1.png" alt="img" style="height: 3rem;"></div>
                         <div class="services7">Resource Outsourcing</div>
                         <div class="services8">Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks. In a broader sense, web development encompasses all the actions, updates, and operations required to build, maintain and manage a website to ensure its performance, user experience, and speed are optimal.</div>
                         <div>
@@ -201,31 +204,31 @@
     <div class="container-fluid" style="margin-top: 2rem;">
         <div class="services10">
             <div class="services11">
-                <div data-toggle="tooltip" title="HTML5"><img src="assets/html5.png" alt="html"class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="HTML5"><img src="/CodeKart/assets/html5.png" alt="html"class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="CSS3"><img src="assets/CSS3.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="CSS3"><img src="/CodeKart/assets/CSS3.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="JAVA SCRIPT"><img src="assets/js.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="JAVA SCRIPT"><img src="/CodeKart/assets/js.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="REACT"><img src="assets/reactjs.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="REACT"><img src="/CodeKart/assets/reactjs.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="ANGULAR"><img src="assets/angular.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="ANGULAR"><img src="/CodeKart/assets/angular.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="JAVA"><img src="assets/java.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="JAVA"><img src="/CodeKart/assets/java.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="PHP"><img src="assets/php.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="PHP"><img src="/CodeKart/assets/php.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="EXPRESS JS"><img src="assets/expressjs.png" class="img-fluid" alt="html" id="services12" /></div>
+                <div data-toggle="tooltip" title="EXPRESS JS"><img src="/CodeKart/assets/expressjs.png" class="img-fluid" alt="html" id="services12" /></div>
             </div>
             <div class="services11">
-                <div data-toggle="tooltip" title="NODE JS"><img src="assets/node.png" alt="html" class="img-fluid" id="services12" /></div>
+                <div data-toggle="tooltip" title="NODE JS"><img src="/CodeKart/assets/node.png" alt="html" class="img-fluid" id="services12" /></div>
             </div>
         </div>
     </div>
@@ -327,6 +330,7 @@
             </div>
         </div>
     </div>
+<?php include("../Footer/Footer.php"); ?>
 
     <script>
         function openPkg(evt, package) {
@@ -343,6 +347,7 @@
             evt.currentTarget.className += " active";
         }
     </script>
+
 </body>
 
 </html>

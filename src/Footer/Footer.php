@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="StyleSheet" href="../Footer/Footer.css" type="text/css" />
     <title>codeKart</title>
 </head>
-
 <body>
     <div class="container-fluid" id="footer1">
         <div class="row">
@@ -25,7 +24,7 @@
     </div>
     <div class="container-fluid" id="footer6">
         <div class="row">
-            <div class="col col-lg-2">
+            <div class="col-2" style="display: flex; justify-content: center;">
                         <div style="position: relative;">
                             <div class="footer19">
                                 <div style="position: relative;">
@@ -38,14 +37,14 @@
                     LET'S CRAFT THE FUTURE
                 </div> -->
             </div>
-            <div class="col">
+            <div class="col-10">
                 <div class="row">
                     <div class="col-9" id="footer8">
                         <p class="footer9">The values that hold us</p>
                         <p class="footer10">true to our customer's.</p>
                     </div>
                     <div class="col-3">
-                        <img src='assets/logo.JPG' alt="logo" style="margin-top: 2rem; width:4rem" />
+                        <img src='/CodeKart/assets/logo.JPG' alt="logo" style="margin-top: 2rem; width:3.8rem; height: 2.8rem;" />
                     </div>
                 </div>
 
@@ -145,21 +144,21 @@
 
                 <div class="row" style="padding-top: 1rem;">
                     <div class="col" style="display: flex;">
-                        <div><img src="assets/download.png" class="footer16" /></div>
+                        <div><img src="/CodeKart/assets/download.png" class="footer16" /></div>
                         <div>
                             <div class="footer17">PURITY</div>
                             <div class="footer18">Being honest is the foremost quality of especially those treading on the path of spiritualism. In non-religious context honesty is a much desirable virtue. Honesty is one of the main ingredients of what constitutes knowledge.</div>
                         </div>
                     </div>
                     <div class="col" style="display: flex;">
-                        <div><img src="assets/download.png" class="footer16" /></div>
+                        <div><img src="/CodeKart/assets/download.png" class="footer16" /></div>
                         <div>
                             <div class="footer17">HONESTY</div>
                             <div class="footer18">Being honest is the foremost quality of especially those treading on the path of spiritualism. In non-religious context honesty is a much desirable virtue. Honesty is one of the main ingredients of what constitutes knowledge.</div>
                         </div>
                     </div>
                     <div class="col" style="display: flex;">
-                        <div><img src="assets/download.png" class="footer16" /></div>
+                        <div><img src="/CodeKart/assets/download.png" class="footer16" /></div>
                         <div>
                             <div class="footer17">DEDICATION</div>
                             <div class="footer18">Being honest is the foremost quality of especially those treading on the path of spiritualism. In non-religious context honesty is a much desirable virtue. Honesty is one of the main ingredients of what constitutes knowledge.</div>
