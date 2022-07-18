@@ -17,6 +17,7 @@
 </head>
 <body>
     <div class="container-fluid">
+
         <?php include("./src/Header/Header.php"); ?>
         <div class="container-fluid">
             <div class="row" id="home1">
@@ -93,6 +94,7 @@
         </div>
 
         <?php include("./src/Footer/Footer.php"); ?>
+
     </div>
 </body>
 
